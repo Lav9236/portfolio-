@@ -36,7 +36,7 @@
                 id: 2,
                 number: "04",
                 title: "AI_Churn_Prediction_Model",
-                description: "Developed a House Price Prediction web application that estimates property prices using Machine Learning. The system features a responsive user interface for entering property details and provides real-time price predictions, offering an intuitive and efficient experience for users.",
+                description: "Developed a Customer Churn Prediction web application that predicts customer attrition using Machine Learning. The system includes an interactive dashboard for customer data analysis, real-time churn predictions, and insightful visualizations to support data-driven business decisions and customer retention strategies.",
                 techStack: ["Python Flask","Machine Learning","Scikit-learn", "Streamlit", "Plotly", "Matplotlib","Seaborn"],
                 image: "assets/projects/project4.jpg",
                 liveLink: "https://churn-prediction-ml-model.streamlit.app/",
