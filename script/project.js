@@ -35,7 +35,7 @@
             {
                 id: 2,
                 number: "04",
-                title: "House Price Prediction System Web App",
+                title: "AI_Churn_Prediction_Model",
                 description: "Developed a House Price Prediction web application that estimates property prices using Machine Learning. The system features a responsive user interface for entering property details and provides real-time price predictions, offering an intuitive and efficient experience for users.",
                 techStack: ["Python Flask","Machine Learning","Scikit-learn", "Streamlit", "Plotly", "Matplotlib","Seaborn"],
                 image: "assets/projects/project4.jpg",
@@ -50,8 +50,8 @@
                 description: "Built a full-stack Financial Fraud Detection web application using Machine Learning to detect fraudulent transactions with high accuracy. The application includes real-time transaction prediction, bulk CSV upload and analysis, interactive dashboards, feature importance visualization, and performance metrics, enabling fast and reliable fraud detection through a responsive web interface.",
                 techStack: ["Python Flask","Machine Learning","Scikit-learn", "HTML", "CSS", "Bootstrap","Chart.js"],
                 image: "assets/projects/project5.jpg",
-                liveLink: "https://house-price-predictor-ur0p.onrender.com",
-                githubLink: "https://github.com/Lav9236/House_Price_Predictor"
+                liveLink: "https://ibm-ai-powered-financial-fraud-detection.onrender.com",
+                githubLink: "https://github.com/Lav9236/IBM-AI-Powered-Financial-Fraud-Detection-System"
             },
             
         ];
